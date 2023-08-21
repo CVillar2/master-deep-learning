@@ -1,0 +1,3 @@
+Hay dos Python notebooks vacías, corresponden a las últimas dos tasks. Hay una para un modelo de VAE y otra para un modelo de GAN (funcionan pero a mi el knel me crashea cuando va a enseñar las imágenes). Falta (además de las dos tasks, aunque deberían llevar poco tiempo, el problema es probar cosas que cada epoch tarda un montón de tiempo) probar hiperparámetros, probar alguna arquitectura y hacer el código y los cálculos para obtener el FID.
+
+La carpeta Data_pre.py son dos funciones para hacer el preprocessing y que no haya que poner en la notebook de cada modelo todo el código.
